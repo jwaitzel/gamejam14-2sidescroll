@@ -48,14 +48,18 @@
   <ItemGroup>
      <Compile Include="Assets\Menus\GoToMainMenu.cs" />
      <Compile Include="Assets\Menus\MainMenu\TapToStart.cs" />
+     <Compile Include="Assets\Scripts\CharacterController.cs" />
      <Compile Include="Assets\Scripts\ConstantFollowCamera.cs" />
      <Compile Include="Assets\Scripts\ConstantMovement.cs" />
+     <Compile Include="Assets\Scripts\EnemyController.cs" />
+     <Compile Include="Assets\Scripts\EnemySpawner.cs" />
      <Compile Include="Assets\Scripts\FollowerEnemy.cs" />
      <Compile Include="Assets\Scripts\Game.cs" />
      <Compile Include="Assets\Scripts\InfiniteScrolling.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
      <Compile Include="Assets\Scripts\ObjectFollower.cs" />
      <Compile Include="Assets\Scripts\PrincessFinalMovement.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\RendererExtensions.cs.cs" />
      <Compile Include="Assets\Scripts\SwitchCharacters.cs" />
      <Compile Include="Assets\SoundEffectHelper.cs" />

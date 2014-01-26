@@ -1,22 +1,17 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SwitchCharacters.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacterController.cs">
     <Files>
-      <File FileName="Assets/Scripts/ObjectFollower.cs" Line="23" Column="88" />
-      <File FileName="Assets/Scripts/Movement.cs" Line="17" Column="32" />
-      <File FileName="Assets/Scripts/PrincessFinalMovement.cs" Line="14" Column="18" />
-      <File FileName="Assets/Scripts/Game.cs" Line="6" Column="29" />
-      <File FileName="Assets/Scripts/ConstantMovement.cs" Line="34" Column="130" />
-      <File FileName="Assets/Scripts/InfiniteScrolling.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/ConstantFollowCamera.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/FollowerEnemy.cs" Line="1" Column="1" />
-      <File FileName="Assets/Menus/GoToMainMenu.cs" Line="7" Column="1" />
-      <File FileName="Assets/Menus/MainMenu/TapToStart.cs" Line="21" Column="3" />
-      <File FileName="Assets/Scripts/SwitchCharacters.cs" Line="18" Column="10" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" Line="24" Column="3" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/CharacterController.cs" Line="31" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/frimoldi/Juegos/gamejam14-2sidescroll/UnityProject/Assets/Scripts/CharacterController.cs" line="46" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
