@@ -9,3 +9,9 @@ EditorBuildSettings:
     path: Assets/Menus/MainMenu/InitialScene.unity
   - enabled: 1
     path: Assets/GameScene.unity
+  - enabled: 1
+    path: Assets/Menus/LoseMenu/LoseMenu.unity
+  - enabled: 1
+    path: Assets/Menus/WinMenu1/WinMenu1.unity
+  - enabled: 1
+    path: Assets/Menus/WinMenu2/WinMenu2.unity

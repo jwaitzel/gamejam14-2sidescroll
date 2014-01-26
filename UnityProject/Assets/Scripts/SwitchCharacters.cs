@@ -14,6 +14,9 @@ public class SwitchCharacters : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
+	if(this.gameObject.GetComponent<Game>().finalAnimation)
+		return;
+	
 	if(Input.GetKeyDown(KeyCode.Space))
 	{
 		upSceneActive = !upSceneActive;
